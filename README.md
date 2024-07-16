@@ -10,9 +10,9 @@ Quiz app build using flutter for user to test there knowledge regard flutter, re
 - Analysis report with your previos inputs
 
 ## Screenshots
-<img width="250" src="https://github.com/Pratyansh35/quiz_app/assets/1st.png">
+<img width="250" src="https://github.com/Pratyansh35/quiz_app/assets/images/1st.png">
 
-<img width="250" src="https://github.com/Pratyansh35/quiz_app/assets/2nd.png">
+<img width="250" src="https://github.com/Pratyansh35/quiz_app/assets/images/2nd.png">
 
 
 ## Installation
